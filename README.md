@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AiswaryaSgi
 - 👀 I’m interested in python & c++
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
+- 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me aiswarya.i2021@kgkite.ac.in
 
 <!---
